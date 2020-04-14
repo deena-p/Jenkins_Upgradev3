@@ -1,6 +1,7 @@
 <html>
 <body>
-<h2>Hello World! Welcome to Jenkins Training from Deena version</h2>
-<h2>Thi is testing</h2>
+<h1>Hello World! Welcome to Jenkins Training from Deena version of project</h1>
+<h2>This is testing</h2>
+<p>This is paragraph</p>
 </body>
 </html>
